@@ -8,10 +8,17 @@ To write a program to implement the SVM For Spam Mail Detection.
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Import the necessary python packages using import statements.
+
+2.Read the given csv file using read_csv() method and print the number of contents to be displayed using df.head().
+
+3.Split the dataset using train_test_split.
+
+4.Calculate Y_Pred and accuracy.
+
+5.Print all the outputs.
+
+6.End the Program.
 
 ## Program:
 ```
@@ -56,10 +63,12 @@ print(cl)
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/cc3aa22a-c6bc-4d74-bfde-817102ff59d3)
-![image](https://github.com/user-attachments/assets/9d65f33f-21b0-4468-9390-305cea71d5eb)
-![image](https://github.com/user-attachments/assets/31ee6ee5-364b-4d0b-8dad-2f02a81284db)
-![image](https://github.com/user-attachments/assets/7dddc9af-65e4-42e1-a569-a1fa5374fcf9)
+![image](https://github.com/user-attachments/assets/c307789f-fe6e-4b24-a4df-bf12fff4027b)
+![image](https://github.com/user-attachments/assets/2cc376c7-b016-44c7-98db-cebe81f48fcd)
+![image](https://github.com/user-attachments/assets/71446883-2de5-4131-b987-0ee967b8df2e)
+![image](https://github.com/user-attachments/assets/1d2c715f-28c9-472e-a1ee-b09c1bbe965c)
+![image](https://github.com/user-attachments/assets/ef830362-e92c-488b-8153-eb39c9921be3)
+
 
 
 ## Result:
